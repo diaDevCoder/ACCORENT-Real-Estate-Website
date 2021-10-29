@@ -1,0 +1,101 @@
+.text-bold {
+    font-weight: 500;
+}
+
+.tag {
+    display: grid;
+}
+
+.tag-line {
+    font-size: 19px;
+}
+
+.nav-button {
+    color: rgb(28, 111, 225);
+    font-weight: bold;
+    border: 1px solid rgb(28, 111, 225);
+    padding: 10px 20px;
+    border-radius: 3px;
+    line-height: 80px;
+}
+
+.btn-active {
+    background-color: rgb(28, 111, 225);
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.avatar {
+    max-width: 80%;  
+    border-radius: 100%;
+    border: 4px double lightgrey;
+}
+
+
+.default-button {
+   background-color: rgb(28, 111, 225);
+    color:white ;
+}
+.edit-button{
+    background-color: rgb(28, 111, 225);
+    color:white ;
+    border-radius: 5px;
+}
+
+.update-button {
+    background-color: rgb(28, 111, 225);
+    color:white ;
+    border-radius: 5px;
+}
+
+.default-button:hover {
+    background: rgb(0, 153, 255);
+	color: #ffffff;
+}
+
+.btn-search {
+    background-color: rgb(28, 111, 225);
+    font-weight: bold;
+    color:white;
+    border: 1px solid rgb(28, 111, 225);
+    border-radius: 3px;
+}
+
+.nav-button:hover {
+    background: rgb(28, 111, 225);
+	color: #ffffff;
+}
+
+.btn-search:hover {
+    background: rgb(0, 153, 255);
+	color: #ffffff;
+}
+
+.sponsored-btn {
+    background-color: rgb(28, 111, 225);
+}
+
+
+.hideAccount {
+    display: none;
+}
+
+.displayAccount {
+    display: block;
+}
+
+.displaySign {
+    display: block;
+}
+
+.hideSign {
+    display: none;
+}
+
+.displayLogout {
+    display: block;
+}
+
+.hideLogout {
+    display: none;
+}
